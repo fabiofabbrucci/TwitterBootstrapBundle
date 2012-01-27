@@ -1,3 +1,0 @@
-RuianTwitterBootstrapBundle_homepage:
-    pattern:  /hello/{name}
-    defaults: { _controller: RuianTwitterBootstrapBundle:Default:index }
